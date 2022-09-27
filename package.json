@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/ndrSaba/api-project/issues"
   },
-  "homepage": "https://github.com/ndrSaba/api-project#readme"
+  "homepage": "https://github.com/ndrSaba/api-project#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
 }
